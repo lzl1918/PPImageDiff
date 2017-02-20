@@ -1,0 +1,20 @@
+total size:
+	height: 768
+	width:  1024
+
+image1:
+	x1: 	93
+	y1: 	312
+	x2: 	473
+	y2: 	597
+	height: 286
+	width:  381
+
+image2:
+	x1: 550
+	y1: 312
+	x2: 930
+	y2: 597
+	height: 286
+	width:  381
+	
